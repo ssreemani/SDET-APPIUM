@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29992" started-at="2020-08-06T22:00:49 IST" finished-at="2020-08-06T22:01:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29992" started-at="2020-08-06T22:00:49 IST" finished-at="2020-08-06T22:01:19 IST">
+      <class name="Project.Firstproject_3">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Project.Firstproject_3@7c29daf3]" name="beforeTest" is-config="true" duration-ms="16239" started-at="2020-08-06T22:00:49 IST" finished-at="2020-08-06T22:01:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="keep_rem()[pri:0, instance:Project.Firstproject_3@7c29daf3]" name="keep_rem" duration-ms="13685" started-at="2020-08-06T22:01:05 IST" finished-at="2020-08-06T22:01:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keep_rem -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Project.Firstproject_3@7c29daf3]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-08-06T22:01:19 IST" finished-at="2020-08-06T22:01:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Project.Firstproject_3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39809" started-at="2020-08-04T16:17:00 IST" finished-at="2020-08-04T16:17:40 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39809" started-at="2020-08-04T16:17:00 IST" finished-at="2020-08-04T16:17:40 IST">
+      <class name="Activity.Activity1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Activity.Activity1@10bbd20a]" name="beforeTest" is-config="true" duration-ms="14818" started-at="2020-08-04T16:17:00 IST" finished-at="2020-08-04T16:17:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Activity.Activity1@10bbd20a]" name="f" duration-ms="24366" started-at="2020-08-04T16:17:15 IST" finished-at="2020-08-04T16:17:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Activity.Activity1@10bbd20a]" name="afterTest" is-config="true" duration-ms="557" started-at="2020-08-04T16:17:40 IST" finished-at="2020-08-04T16:17:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Activity.Activity1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
